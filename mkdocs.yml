@@ -2,11 +2,15 @@ site_name: ReadBear
 theme:
   name: "bootstrap4"
   logo: img/readbear_logo.png
+
 extra_css:
   - css/custom.css
+
 repo_url: https://github.com/Tulis12/ReadBear-Web
 site_description: Page for ReadBear - a cute and chill CBZ, PDF, EPUB reader that's ridiculously configurable
 site_author: Tulis
+edit_uri: https://github.com/Tulis12/ReadBear-Web/edit/main/docs/
+
 nav:
   - "About": index.md
   - contributing.md

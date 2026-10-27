@@ -1,7 +1,7 @@
 # Welcome to ReadBear
 
 <p class="center-children">
-    <img src="img/readbear_logo.png" alt="ReadBear logo" width="300">
+    <img src="img/readbear_logo.png" alt="ReadBear logo" class="logo-big">
 </p>
 
 ## ReadBear

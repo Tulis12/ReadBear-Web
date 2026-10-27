@@ -11,3 +11,7 @@ nav:
   - "About": index.md
   - contributing.md
   - privacy_policy.md
+plugins:
+  - git-committers:
+      repository: Tulis12/ReadBear-Web
+      branch: main

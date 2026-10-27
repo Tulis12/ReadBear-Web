@@ -21,18 +21,22 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
+      - name: Set up Python and uv
+        uses: astral-sh/setup-uv@07a047e608db84b3d8c06cd9a7c7dcc9c355c18e
         with:
-          python-version: "3.x"
+          enable-cache: true
 
-      - name: Install MkDocs
+      - name: Install Requirements
         run: |
-          pip install mkdocs
-          pip install mkdocs-bootstrap4
+          uv venv
+          uv pip install -r requests.txt
 
       - name: Build site
-        run: mkdocs build
+        env:
+          MKDOCS_GIT_COMMITTERS_APIKEY: ${{ github.token }}
+        run: |
+          source .venv/bin/activate
+          mkdocs build
 
       - name: Deploy to gh-pages
         env:

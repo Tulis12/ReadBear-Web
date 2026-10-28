@@ -1,13 +1,14 @@
 # Contributing
 
-## Ways to contribute
+### Ways to contribute
 
 Want to help with the app? Here are some ways to contribute:
 
 - [create new languages](https://github.com/Tulis12/ReadBear/issues) in translation (select "New language" template)
-- update and review [translations](https://translate.tulis.dev/)
+- update and review translations [here](https://translate.tulis.dev/engage/readbear/) [![translated percent badge](https://translate.tulis.dev/widget/readbear/svg-badge.svg)](https://translate.tulis.dev/engage/readbear/)
 - create feature submissions
-- create prs
+- submit issues if found
+- create prs with bug fixes
 
 ## Running tests
 

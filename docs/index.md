@@ -1,3 +1,11 @@
+<div class="alert alert-info text-center mb-4" role="alert">
+    <strong>Help test ReadBear!</strong>
+    We're looking for testers to apply for Google Play store!
+    <a href="https://forms.gle/juML2qQRUskNn1Ra9">
+        Sign up for testing
+    </a>
+</div>
+
 # Welcome to ReadBear
 
 <p class="center-children">
@@ -17,6 +25,14 @@
     </a>
 </p>
 
+## Features
+
+- multiple reading formats
+- bookmarks and auto-saving reading progress
+- keeps track of all the reading hours
+- capture snippets, screenshot fragments of the books
+- customize features of the app to your liking
+
 ## Supported formats
 
 <table class="table">
@@ -30,17 +46,17 @@
     <tbody>
         <tr>
             <td>EPUB</td>
-            <td>✅➕</td>
+            <td>✅</td>
             <td>Customization options are coming!</td>
         </tr>
         <tr>
             <td>CBZ</td>
-            <td>⚠️</td>
+            <td>✅</td>
             <td>Metadata is not yet supported</td>
         </tr>
         <tr>
             <td>PDF</td>
-            <td>⚠️</td>
+            <td>✅</td>
             <td>Metadata is not yet supported</td>
         </tr>
         <tr>
@@ -61,11 +77,15 @@
 ⚠️ - reading is supported, but not all format features are (for example metadata)  
 ⌛ - format is on the roadmap
 
-## How to verify app signature?
+## Verify app signature
 
-Use for example [AppVerifier](https://github.com/soupslurpr/AppVerifier) and check with this fingerprint. I am unfortunately unable to add this to the database, as pull reqeuests are not accepted at the moment.
+Use for example [AppVerifier](https://github.com/soupslurpr/AppVerifier) and check with this fingerprint. I am unfortunately unable to add this to the database, as pull requests are not accepted at the moment.
 
 ```
 dev.tulis.readbear
 BA:29:5F:BF:D8:57:41:ED:AC:5C:37:72:43:0B:BA:B1:91:81:91:E8:99:90:D8:6C:87:17:B4:39:95:93:37:12
 ```
+
+## License
+
+ReadBear is released under MIT.

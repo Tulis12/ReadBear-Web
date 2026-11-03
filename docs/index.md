@@ -25,6 +25,10 @@
     </a>
 </p>
 
+## Instalation
+
+You can get the app from [F-Droid](https://f-droid.org/packages/dev.tulis.readbear), [Obtainium](https://apps.obtainium.imranr.dev/redirect?r=obtainium://add/https://github.com/Tulis12/ReadBear) or directly from [Github Releases](https://github.com/Tulis12/ReadBear/releases/latest). When downloading `.apk` files please verify [their app signature](#verify-app-signature).
+
 ## Features
 
 - multiple reading formats

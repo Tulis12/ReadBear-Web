@@ -25,7 +25,7 @@
     </a>
 </p>
 
-## Instalation
+## Installation
 
 You can get the app from [F-Droid](https://f-droid.org/packages/dev.tulis.readbear), [Obtainium](https://apps.obtainium.imranr.dev/redirect?r=obtainium://add/https://github.com/Tulis12/ReadBear) or directly from [Github Releases](https://github.com/Tulis12/ReadBear/releases/latest). When downloading `.apk` files please verify [their app signature](#verify-app-signature).
 For help with app instalation on [F-Droid](https://f-droid.org/) please refer to their help, as well for [Obtainium](https://wiki.obtainium.imranr.dev/ui_overview/).
@@ -38,6 +38,13 @@ Guide for manual downloads:
 4. You may see a message that your browser may not install apps, open settings from the popup to allow it
 5. Click install (and accept the Google Play Services scanning) - the app scans as safe
 6. You may now open the app and start your reading!
+
+## Screenshots
+
+<img src="https://raw.githubusercontent.com/Tulis12/ReadBear/dev/fastlane/metadata/android/en-US/images/phoneScreenshots/1.png" width="22.5%">
+<img src="https://raw.githubusercontent.com/Tulis12/ReadBear/dev/fastlane/metadata/android/en-US/images/phoneScreenshots/2.png" width="22.5%">
+<img src="https://raw.githubusercontent.com/Tulis12/ReadBear/dev/fastlane/metadata/android/en-US/images/phoneScreenshots/3.png" width="22.5%">
+<img src="https://raw.githubusercontent.com/Tulis12/ReadBear/dev/fastlane/metadata/android/en-US/images/phoneScreenshots/4.png" width="22.5%">
 
 ## Features
 

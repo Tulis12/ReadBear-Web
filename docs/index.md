@@ -1,6 +1,6 @@
 <div class="alert alert-info text-center mb-4" role="alert">
     <strong>Help test ReadBear!</strong>
-    We're looking for testers to apply for Google Play store!
+    We're looking for active testers!
     <a href="https://forms.gle/juML2qQRUskNn1Ra9">
         Sign up for testing
     </a>
@@ -17,6 +17,9 @@
 #### A cute and chill CBZ, PDF, EPUB reader that's ridiculously configurable - for free!
 
 <p class="center-children left">
+    <a href="https://play.google.com/store/apps/details?id=dev.tulis.readbear">
+        <img src="img/get-it-on-play.png" alt="Download from Google Play" height="80">
+    </a>
     <a href="https://f-droid.org/packages/dev.tulis.readbear">
         <img src="https://f-droid.org/badge/get-it-on.png" alt="Download from F-Droid" height="80">
     </a>
